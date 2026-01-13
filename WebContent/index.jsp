@@ -15,7 +15,7 @@ div.ex {
 }
 </style>
 <body>
-	<h1>CLOUDBLITZ</h1> </br>
+	<h1>CLOUDBLITZ-TEAM</h1> </br>
 	<h2>Welcomes you!!</h2> </br>
 	<h2>Student admission form </h2>
 	<div class="ex">
@@ -51,3 +51,4 @@ div.ex {
 	</div>
 </body>
 </html>
+
